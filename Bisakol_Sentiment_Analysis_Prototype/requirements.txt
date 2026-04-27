@@ -1,0 +1,5 @@
+google-genai>=1.0.0
+gradio>=4.36.1
+pandas
+numpy
+matplotlib
