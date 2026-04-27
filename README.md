@@ -81,17 +81,16 @@ A working prototype UI was developed to demonstrate real-time sentiment analysis
 ### Prototype Screenshots
 
 - Single text prediction + score breakdown:
-  - `screenshots/single-text.png`
+  - `screenshots/single-text.png.jpg`
 - Bulk text analysis (multiple sentences):
-  - `screenshotsbulk-text.png`
+  -  `screenshots/bulk-text.png.jpg`
 - Large batch analysis summary + distributions:
-  - `screenshotsbatch-text.png`
-
+  - `screenshots/batch-text.png.jpg`
+    
 Then they will render in GitHub like this:
 
-![Single Text](screenshots/single-text.png)
-![Bulk Text](screenshotsbulk-text.png)
-![Batch Summary](screenshotsbatch-text.png)
+![Single Text](screenshots/single-text.png.jpg)
+![Bulk Text](screenshots/bulk-text.png.jpg)
 
 ---
 
