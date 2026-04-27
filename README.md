@@ -1,6 +1,6 @@
 ## Bisakol Sentiment Analyzer (Cebuano/Bisaya)
 
-**Bisakol Sentiment Analyzer** is a Cebuano/Bisaya sentiment analysis project powered by **DistilBERT-Cebuano + Graph Attention Network (GAT) + Attention-over-Attention (HoA)**.  
+**Bisakol Sentiment Analyzer** is a Cebuano/Bisaya sentiment analysis project powered by **DistilBERT-Cebuano + Graph Attention Network (GAT) + Attention-over-Attention (AoA)**.  
 It includes **Bisaya-only datasets**, **LICR-based preprocessing**, multiple **model experiments**, and a working **prototype web app** for single-text, bulk-text, and file-based sentiment analysis.
 
 ---
@@ -55,10 +55,10 @@ We experimented with **three transformer-based baselines** and our **main archit
 - **XLM-RoBERTa**: Strong multilingual baseline
 
 ### Main Approach
-- **DistilBERT-Cebuano + GAT + HoA**
+- **DistilBERT-Cebuano + GAT + AoA**
   - Transformer produces contextual token/sequence representations
   - Graph Attention Network models relationships/features with attention
-  - Attention-over-Attention (HoA) improves attention aggregation for classification
+  - Attention-over-Attention (AoA) improves attention aggregation for classification
 
 All training and experimentation artifacts are stored under `Models/`.
 
