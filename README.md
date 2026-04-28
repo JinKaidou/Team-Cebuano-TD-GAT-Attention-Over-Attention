@@ -28,7 +28,7 @@ This project uses datasets that contain **purely Bisaya/Cebuano text** (e.g., Ce
   - `LICR_Cebert_Dataset.json`
 
 > If the dataset files are not present in the GitHub repo, they were likely kept locally or shared separately because of GitHub file size limits.
-
+to view the file please proceed to this link = https://drive.google.com/file/d/15KUE3uHa1AiMUr1Bfk_cOD-KO9T7kJZD/view?usp=drive_link 
 ---
 
 ## Data Preprocessing (LICR)
